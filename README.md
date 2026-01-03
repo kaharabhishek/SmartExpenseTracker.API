@@ -1,8 +1,3 @@
-Absolutely 👍
-Here’s a **clean, professional, interview-ready README.md** you can **directly copy-paste** into GitHub.
-
----
-
 # 💰 Smart Expense Tracker – ASP.NET Core Web API
 
 ## 📌 Project Overview
@@ -142,8 +137,7 @@ All endpoints can be tested using **Swagger UI**, which provides an interactive 
 
 ## 👨‍💻 Author
 
-**Abhishek**
-Entry-level .NET Developer | C# | ASP.NET Core | SQL
-GitHub: *(https://github.com/kaharabhishek)*
-
-LinkedIn: *(https://www.linkedin.com/in/abhishekashokkahar/)*
+**Abhishek Ashok Kahar**
+* Entry-level .NET Developer | C# | ASP.NET Core | SQL
+* GitHub: *(https://github.com/kaharabhishek)*
+* LinkedIn: *(https://www.linkedin.com/in/abhishekashokkahar/)*
